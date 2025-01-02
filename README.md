@@ -7,4 +7,5 @@ Analyze customer purchasing behavior.
 Predict daily sales up to six weeks ahead. 
 Use machine learning and deep learning approaches for forecasting. 
 Deploy a web-based tool to serve predictions to finance analysts.
-# Acknowledgements: This project relies on all the important libraries like numpy, pandas, matplotlib, seaborn, sklearn and many more.
+# Acknowledgements: 
+This project relies on all the important libraries like numpy, pandas, matplotlib, seaborn, sklearn and many more.
